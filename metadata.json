@@ -1,0 +1,7 @@
+{
+  "name": "SunnyAvatar",
+  "description": "Create cheerful cartoon avatars from your photos and stitch them into fun animated GIFs. Designed for everyone with a sunny, mobile-first experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
